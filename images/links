@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        
+        <body>
+            <div id="menu bar"></div>
+            <a href="index,html">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+            </body>
+        </body>
+    </head>
+</html>
